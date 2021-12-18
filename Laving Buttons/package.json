@@ -1,0 +1,41 @@
+{
+  "name": "laving-button-system",
+  "version": "0.0.1",
+  "description": "laving yaptı amcık.",
+  "main": "laving.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "laving",
+  "license": "MIT",
+  "dependencies": {
+    "canvacord": "^5.2.1",
+    "chalk": "^4.1.1",
+    "axios": "^0.21.4",
+    "common-tags": "^1.8.0",
+    "cron": "^1.8.2",
+    "discord.js": "^12.2.0",
+    "express": "^4.17.1",
+    "fs": "^0.0.2",
+    "discord-buttons": "^4.0.0",
+    "discord-logs": "^2.0.1",
+    "jimp": "^0.16.1",
+    "manageable": "0.0.2",
+    "member": "0.0.2",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.3",
+    "parse-ms": "^3.0.0",
+    "path": "^0.12.7",
+    "process": "^0.11.10",
+    "quick.db": "^7.1.3",
+    "snekfetch": "^4.0.4",
+    "superagent": "^6.1.0"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "keywords": [
+    "laving"
+  ]
+}
