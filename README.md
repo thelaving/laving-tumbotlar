@@ -1,7 +1,1 @@
-### DİSCORD PLATFORMUNU SALMIŞ BULUNMAKTAYIM İHTİYACI OLANLAR VARDIR DİYE KENDİ BOTLARIMI PAYLAŞICAM EDİTLEYİP VEYA .JSONLARI DOLDURUP KULLANABİLRSİNİZ BANA ULAŞIP HATA FELAN VAR DİYE YAZMAYIN TOKATLARIM KENDINIZ ÇÖZÜN BU BOTLAR GERÇEKTAN KALİTELİ VE BİRÇOK BOTCUNUNU BEĞENDİĞİ BOTLAR
-
-### 50 STARDA GUARD STATS İNVİTE SUPERVİZOR EXECUTİVE(REGİSTER) MODERATİON VE TEKCMD BOT GELİCEK :D
-
-![image](https://user-images.githubusercontent.com/76821782/144748737-25430c4b-1c37-42f4-a901-b6e1a22d4752.png)
-
-
+Merhaba dostlar, öncelikle bu proje şuanlık boş kalacak. Botlarım genelde çalıntı veya editlenip yapılan botlardı ve ben bunları açık açık söylüyorum. DJS'yi tam kavrayıp kaliteli botlar yazmaya başlayınca bu projeye güzel bir ayar çekicem sizler için destek vericem botlar vericem amacım insanların daha çok bilgi sahip olması tabi benimde öyle kaliteli botçulardan ders alıp sizlere güzel şeyler sunucam çok yakında şenlendiricem buraları. Ben size destek olacağım sizde bana olmak isterseniz star/fork atabilirsiniz size kalmış herkese sağlıcaklar.
